@@ -104,7 +104,7 @@
             "prefix": " \uE235 ",
             "display_version": true,
             "display_mode": "files",
-            "display_virtual_env": false
+            "display_virtual_env": true
           }
         },
         {
