@@ -1,5 +1,5 @@
 # My Configuration Stuff
-This that I use to hold my vscode, powershell and other stuff configuration files
+This is what I use to customize my vscode, powershell and other stuff configuration files
 
 ## Powershell Customization
 - Download Caskaydia Cove Nerd Font Complete from [Nerd Fonts]
