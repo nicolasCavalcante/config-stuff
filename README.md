@@ -49,7 +49,17 @@ wget  https://raw.githubusercontent.com/nicolasCavalcante/config-stuff/master/in
 sudo add-apt-repository ppa:ultradvorka/ppa && sudo apt-get update && sudo apt-get install hstr && hstr --show-configuration >> ~/.bashrc && . ~/.bashrc
 ```
 
-
+## Github
+- Add some alias
+### Powershell
+```powershell
+(Invoke-WebRequest -Uri https://raw.githubusercontent.com/nicolasCavalcante/config-stuff/master/gitconfig_alias).Content >> ~/.gitconfig
+```
+### Bash
+```bash
+echo "" >> test1.txt
+curl https://raw.githubusercontent.com/nicolasCavalcante/config-stuff/master/gitconfig_alias >> ~/.gitconfig
+```
 [Nerd Fonts]: https://www.nerdfonts.com/
 
 [Oh-My-Posh]: https://ohmyposh.dev/

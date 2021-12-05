@@ -1,0 +1,5 @@
+[alias]
+	s = status -s
+	ca = !git add --all && git commit -m
+	c = !git commit -m
+	l = !git log --pretty=format:'%C(yellow)%h %C(bold red)%d %C(white)%s - %C(bold cyan)%cn, %C(bold green)%cr'
