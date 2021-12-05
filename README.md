@@ -57,7 +57,7 @@ sudo add-apt-repository ppa:ultradvorka/ppa && sudo apt-get update && sudo apt-g
 ```
 ### Bash
 ```bash
-echo "" >> test1.txt
+echo "" >> ~/.gitconfig
 curl https://raw.githubusercontent.com/nicolasCavalcante/config-stuff/master/gitconfig_alias >> ~/.gitconfig
 ```
 [Nerd Fonts]: https://www.nerdfonts.com/
